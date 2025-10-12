@@ -6,9 +6,6 @@ We compare and evaluate models including **Random Forest Regressor**, **XGBoost*
 
 ---
 
-## 📁 Project Structure
----
-
 ## 🧠 Problem Statement
 
 ERP implementations are complex and often vary significantly in duration based on organizational and project factors. Accurately estimating project duration helps:
