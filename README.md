@@ -1,4 +1,4 @@
-Predicting ERP Implementation Duration using Machine Learning
+## Predicting ERP Implementation Duration using Machine Learning
 
 This project investigates the use of various machine learning models to predict the **duration of ERP (Enterprise Resource Planning) system implementations**, measured in weeks. The dataset contains features such as project size, team characteristics, client attributes, and industry type.
 
